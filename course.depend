@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1600235283 source:c:\users\abdullateef sanosse\desktop\c++ cource\course\main.cpp
+	<iostream>
+	<stack>
+
